@@ -3,7 +3,8 @@
 
 
 // Déclaration des fonctions
-void TriInserstion(int *tab,int length);
+void TriInserstion(int length, int *tab);
+void TriInsertionRecurcif(int i,int length,int *tab);
 
 
 #endif
